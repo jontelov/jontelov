@@ -1,5 +1,7 @@
-### Hi there 👋
-
+![Header](https://github.com/jontelov/jontelov/blob/main/header.png "Header")
+<!-- (https://some-url.dev/) -->
+<!-- ### Hi there 👋 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=jontelov&theme=merko" />
 <!--
 **jontelov/jontelov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

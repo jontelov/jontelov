@@ -8,7 +8,7 @@
 
 ## Tech Stack
 
-![](https://img.shields.io/badge/code-php-blue?style=flat&logo=php)  
+![](https://img.shields.io/badge/code-php-blue?style=flat&logo=php)
 ![](https://img.shields.io/badge/code-javascript-yellow?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/code-html-crimson?style=flat&logo=html)
 ![](https://img.shields.io/badge/code-css-skyblue?style=flat&logo=css)
